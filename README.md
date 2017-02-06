@@ -1,2 +1,2 @@
 # fegram
-instagram filters in svg
+instagram filter effects in svg
