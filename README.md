@@ -27,4 +27,4 @@
 - perpetua
 
 ### usage
-filters are defined in **defs**
+filters are defined in **defs**. see how to use svg defs in html and css.
